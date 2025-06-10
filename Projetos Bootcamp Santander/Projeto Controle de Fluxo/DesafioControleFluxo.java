@@ -1,3 +1,9 @@
+/*
+PROJETO DE AUTORIA DO:
+KADU LOYOLA DE MELO NOGUEIRA
+correção do exercicio proposto no Readme
+ */
+
 import java.util.Scanner;
 
 public class DesafioControleFluxo {
