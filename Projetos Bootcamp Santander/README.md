@@ -1,8 +1,7 @@
-# Exercicios.Java
+# Desafios do Bootcamp
 
-[Exercicios da Dio.me](https://github.com/digitalinnovationone/exercicios-java-basico/tree/main/exercicios)
+[Desafios](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
 
-Exercicios de estudo para Java para auxiliar no aprendizado da linguagem.
-Estou estudando as aulas do curso de Java da Dio e programando pelo NetBeans.
+Parte Exclusiva para a Resolução dos Desafios Encontrados no BootCamp Santander pela Plataforma Dio.me
 
-A medida que for completando os exercicios vou fazendo upload nesse portifolio incluindo os desafios de projetos em Java.
+Ide utilizada, é a NetBeans, conforme for sendo realizado mais desafios Sera postado Exclusivamente nessa Pasta
