@@ -1,0 +1,5 @@
+com\kadu\minha_api\controller\UsuarioController.class
+com\kadu\minha_api\controller\TesteAPI.class
+com\kadu\minha_api\model\Usuario.class
+com\kadu\minha_api\MinhaApiApplication.class
+com\kadu\minha_api\repository\UsuarioRepository.class
